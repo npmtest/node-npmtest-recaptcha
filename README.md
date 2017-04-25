@@ -1,6 +1,6 @@
 # npmtest-recaptcha
 
-#### test coverage for  [recaptcha (v1.2.1)](https://github.com/mirhampt/node-recaptcha)  [![npm package](https://img.shields.io/npm/v/npmtest-recaptcha.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-recaptcha) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-recaptcha.svg)](https://travis-ci.org/npmtest/node-npmtest-recaptcha)
+#### basic test coverage for  [recaptcha (v1.2.1)](https://github.com/mirhampt/node-recaptcha)  [![npm package](https://img.shields.io/npm/v/npmtest-recaptcha.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-recaptcha) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-recaptcha.svg)](https://travis-ci.org/npmtest/node-npmtest-recaptcha)
 
 #### Display and verify a Recaptcha captcha
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-recaptcha/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-recaptcha/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-recaptcha/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-recaptcha/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-recaptcha/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-recaptcha/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-recaptcha/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-recaptcha/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-recaptcha/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-recaptcha/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-recaptcha/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-recaptcha/build/coverage.html/index.html)
 
@@ -67,7 +67,8 @@
         "type": "git",
         "url": "git+https://github.com/mirhampt/node-recaptcha.git"
     },
-    "version": "1.2.1"
+    "version": "1.2.1",
+    "bin": {}
 }
 ```
 
